@@ -1,0 +1,5 @@
+node_modules
+.etherscan
+.mnemonic
+.infura
+.github
